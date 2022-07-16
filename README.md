@@ -34,15 +34,4 @@
 [website]: https://maykeloo.github.io/michalsukiennik/
 [twitter]: https://twitter.com/sukiennikmichal
 [linkedin]: https://www.linkedin.com/in/micha%C5%82-sukiennik-108a2b225/
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+© 2022 Michał Sukiennik
