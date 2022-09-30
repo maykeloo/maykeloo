@@ -29,6 +29,7 @@
 ### AND MUCH MORE!
 <br />
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykeloo&theme=tokyonight)
 
 [website]: https://maykeloo.github.io/michalsukiennik/
 [twitter]: https://twitter.com/sukiennikmichal
