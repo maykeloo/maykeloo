@@ -30,8 +30,6 @@
 <br />
 ---
 <br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maykeloo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykeloo&theme=tokyonight)
 
 [website]: https://maykeloo.github.io/michalsukiennik/
 [twitter]: https://twitter.com/sukiennikmichal
