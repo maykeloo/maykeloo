@@ -28,7 +28,6 @@
 <br />
 ### AND MUCH MORE!
 <br />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maykeloo)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 [website]: https://maykeloo.github.io/michalsukiennik/
