@@ -1,8 +1,4 @@
-### Hai, I am Michał, JavaScript & Vue Developer 👋 
-
-- 🔭 I am looking for a good soul who will take me under one's wing!
-- 🌱 I’m currently learning everything. I am obsessed about programming 🤣
-- 🥅 2022 Goals: Creating a website that will give me spiritual pleasure.
+### Hai, I am Michał, JavaScript Developer 👋 
 
 ### Contact with me:
 
