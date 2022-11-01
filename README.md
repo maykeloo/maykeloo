@@ -8,7 +8,6 @@
 
 
 <br />
----
 <br />
 
 [twitter]: https://twitter.com/sukiennikmichal
