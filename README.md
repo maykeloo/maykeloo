@@ -1,4 +1,4 @@
-### Hai, I am Michał, JavaScript Developer 👋 
+## Hey, I am Michał, JavaScript Developer 👋 
 
 ### Contact with me:
 
