@@ -9,4 +9,4 @@
 [twitter]: https://twitter.com/sukiennikmichal
 [linkedin]: https://www.linkedin.com/in/micha%C5%82-sukiennik-108a2b225/
 [whatsapp]: mailto:michal.sukiennik.contact@gmail.com
-© 2022 Michał Sukiennik
+© 2024 Michał Sukiennik
